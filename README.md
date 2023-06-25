@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Julio, feel free to access my profile!
 
-- 📫 You can reach me at my [!(LinkedIn)[https://www.linkedin.com/in/juliocnp/]]
+- 📫 You can reach me at my ![LinkedIn[(https://www.linkedin.com/in/juliocnp/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnp&layout=compact)
 

@@ -3,11 +3,12 @@
 Full-stack developer with experience in international projects. I believe in an aligned team, agile methodologies, and elegant architectures to build masterful solutions.
 Currently, my studies have a focus on cloud-based software architectures, and on the way to get my Azure certification!
 
-- 📫 You can reach me at my email: julioccnp@gmail.com and also on my [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/juliocnp/)
+- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/juliocnp/) [![Gmail](https://img.shields.io/badge/Gmail-red)](julioccnp@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnp&layout=compact)
-
-[![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocnp)](https://github.com/juliocnp/github-readme-stats)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliocnp&show_icons=true&count_private=true&hide_border=true&title_color=af13e0&icon_color=af13e0&text_color=c9d1d9&bg_color=0d1117" alt="Julio's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliocnp&layout=compact&hide_border=true&title_color=af13e0&text_color=af13e0&bg_color=0d1117" />
+</div>
 
 <!--
 **juliocnp/juliocnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

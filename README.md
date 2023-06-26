@@ -3,7 +3,7 @@
 Full-stack developer with experience in international projects. I believe in an aligned team, agile methodologies, and elegant architectures to build masterful solutions.
 Currently, my studies have a focus on cloud-based software architectures, and on the way to get my Azure certification!
 
-- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/juliocnp/) [![Gmail](https://img.shields.io/badge/Gmail-red)](julioccnp@gmail.com)
+- 📫 Reach me at my [LinkedIn](https://www.linkedin.com/in/juliocnp/) or by [Email](julioccnp@gmail.com)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliocnp&show_icons=true&count_private=true&hide_border=true&title_color=af13e0&icon_color=af13e0&text_color=c9d1d9&bg_color=0d1117" alt="Julio's github stats" /> 

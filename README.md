@@ -23,9 +23,11 @@ Currently, my studies have a focus on cloud-based software architectures, and on
  <a href="https://styled-components.com/"><img align="center" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <a href="https://m3.material.io/"><img align="center" alt="Material Design" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white"/></a>
   <a href="https://fontawesome.com/"><img align="center" alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="AntDesign" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Atomic Design" src="https://img.shields.io/badge/Atomic%20Design-1890FF?style=for-the-badge&logo=atom&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=angular&logoColor=white"/></a>
 
   ## Backend skills:
   <a href="https://nodejs.org/en/"><img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <a href="https://expressjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 </div>

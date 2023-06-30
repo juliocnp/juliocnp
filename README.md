@@ -25,9 +25,60 @@ Currently, my studies have a focus on cloud-based software architectures, and on
   <a href="https://fontawesome.com/"><img align="center" alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/></a>
   <a href="https://ant.design/"><img align="center" alt="Atomic Design" src="https://img.shields.io/badge/Atomic%20Design-1890FF?style=for-the-badge&logo=atom&logoColor=white"/></a>
   <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=angular&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=expo&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=jest&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=lodash&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=sass&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=socketdotio&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
 
   ## Backend skills:
   <a href="https://nodejs.org/en/"><img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <a href="https://expressjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=redis&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=graphql&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nuget&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+  
+  ## Others skills:
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=blender&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=dungeonsanddragons&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=fifa&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=helpdesk&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=microsoftteams&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nba&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=pubg&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=riotgames&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=pubg&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=sonar&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </div>

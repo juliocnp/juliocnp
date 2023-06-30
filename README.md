@@ -32,14 +32,6 @@ Currently, my studies have a focus on cloud-based software architectures, and on
   <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=lodash&logoColor=white"/></a>
   <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=sass&logoColor=white"/></a>
   <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=socketdotio&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
 
   ## Backend skills:
   <a href="https://nodejs.org/en/"><img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
@@ -57,12 +49,6 @@ Currently, my studies have a focus on cloud-based software architectures, and on
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nuget&logoColor=white"/></a>
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
   
   ## Others skills:
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=blender&logoColor=white"/></a>

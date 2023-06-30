@@ -23,15 +23,14 @@ Currently, my studies have a focus on cloud-based software architectures, and on
  <a href="https://styled-components.com/"><img align="center" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <a href="https://m3.material.io/"><img align="center" alt="Material Design" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white"/></a>
   <a href="https://fontawesome.com/"><img align="center" alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Atomic Design" src="https://img.shields.io/badge/Atomic%20Design-1890FF?style=for-the-badge&logo=atom&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=angular&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=axios&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=expo&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=npm&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=jest&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=lodash&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=sass&logoColor=white"/></a>
-  <a href="https://ant.design/"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-1890FF?style=for-the-badge&logo=socketdotio&logoColor=white"/></a>
+  <a href="https://bradfrost.com/blog/post/atomic-web-design/"><img align="center" alt="Atomic Design" src="https://img.shields.io/badge/Atomic%20Design-dc7f28?style=for-the-badge&logo=atom&logoColor=white"/></a>
+  <a href="https://angular.io/docs"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white"/></a>
+  <a href="https://axios-http.com/docs/intro"><img align="center" alt="Axios" src="https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white"/></a>
+  <a href="https://docs.expo.dev/"><img align="center" alt="Expo" src="https://img.shields.io/badge/Expo-151718?style=for-the-badge&logo=expo&logoColor=white"/></a>
+  <a href="https://docs.npmjs.com/"><img align="center" alt="Npm" src="https://img.shields.io/badge/Npm-cb0000?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https://jestjs.io/docs/getting-started"><img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-15c213?style=for-the-badge&logo=jest&logoColor=white"/></a>
+  <a href="https://sass-lang.com/documentation/"><img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-dc92b8?style=for-the-badge&logo=sass&logoColor=white"/></a>
+  <a href="https://socket.io/docs/v4"><img align="center" alt="Socket.io" src="https://img.shields.io/badge/Socket%2Eio-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/></a>
 
   ## Backend skills:
   <a href="https://nodejs.org/en/"><img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>

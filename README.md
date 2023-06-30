@@ -34,20 +34,19 @@ Currently, my studies have a focus on cloud-based software architectures, and on
 
   ## Backend skills:
   <a href="https://nodejs.org/en/"><img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://expressjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=redis&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=csharp&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=graphql&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nuget&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://expressjs.com/pt-br/"><img align="center" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="NestJS" src="https://img.shields.io/badge/Nest.js-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/pt-br/azure/?product=popular"><img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-005ba1?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-d90014?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+  <a href="https://redis.io/"><img align="center" alt="Redis" src="https://img.shields.io/badge/Redis-d90014?style=for-the-badge&logo=redis&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-651f78?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img align="center" alt="dotnet" src="https://img.shields.io/badge/.Net-018ada?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <a href="https://docs.docker.com/"><img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-008fe0?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://graphql.org/learn/"><img align="center" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-d30e8f?style=for-the-badge&logo=graphql&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/docs/"><img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-8cc869?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://mongoosejs.com/"><img align="center" alt="Mongoose" src="https://img.shields.io/badge/Mongoose-a41d21?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/en-us/nuget/"><img align="center" alt="Nuget" src="https://img.shields.io/badge/Nuget-01487e?style=for-the-badge&logo=nuget&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/docs/"><img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-28485f?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   
   ## Others skills:
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=blender&logoColor=white"/></a>

@@ -48,7 +48,7 @@ Currently, my studies have a focus on cloud-based software architectures, and on
   <a href="https://learn.microsoft.com/en-us/nuget/"><img align="center" alt="Nuget" src="https://img.shields.io/badge/Nuget-01487e?style=for-the-badge&logo=nuget&logoColor=white"/></a>
   <a href="https://www.postgresql.org/docs/"><img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-28485f?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   
-  ## Others skills:
+ <!-- ## Others skills:
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=blender&logoColor=white"/></a>
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=dungeonsanddragons&logoColor=white"/></a>
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=fifa&logoColor=white"/></a>
@@ -64,5 +64,5 @@ Currently, my studies have a focus on cloud-based software architectures, and on
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=riotgames&logoColor=white"/></a>
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=pubg&logoColor=white"/></a>
   <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=sonar&logoColor=white"/></a>
-  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://nestjs.com/pt-br/"><img align="center" alt="expres js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=twitch&logoColor=white"/></a> -->
 </div>
